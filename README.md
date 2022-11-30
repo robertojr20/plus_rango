@@ -44,3 +44,7 @@ da disciplina de Análise e Projeto de Sistemas dos cursos de Ciência da Comput
 - [Protótipo do aplicativo](https://www.figma.com/file/JfaAXdoJOcWlPrYHcQTp03/%2BRango?node-id=0%3A1&t=KtgLLUWKg52EwjF0-1)
 - [Dicionário de dados](https://docs.google.com/spreadsheets/d/1qQEIBslesk1oslQ6iW43qxBs15md_HnT/edit?usp=share_link&ouid=102447472006633729895&rtpof=true&sd=true)
 - [Diagrama entidade-relacionamento (DER)](https://drive.google.com/file/d/1i_f6mTHriHjkXSCT2mZmXT5bqSaH74k4/view?usp=share_link)
+
+---
+
+Feito com 💜 &nbsp;por Tiago Lopes, Leandro Zago, Roberto Varela e Ederson Bairros 👋
