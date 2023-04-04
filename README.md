@@ -7,10 +7,10 @@ da disciplina de Análise e Projeto de Sistemas dos cursos de Ciência da Comput
 
 ## Colaboradores
 
-Roberto Varela - Banco de Dad
-Tiago Lopes  - Desenvolvedor front-end 
-Ederson Bairros - UML e DER   
-Leandro Zago - Levantamento de requisitos
+- Roberto Varela - Banco de Dados 
+- Tiago Lopes  - Desenvolvedor front-end 
+- Ederson Bairros - UML e DER   
+- Leandro Zago - Levantamento de requisitos
 
 ##  🚀 Tecnologias
 
